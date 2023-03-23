@@ -30,4 +30,3 @@
 
 1. Una **carrera** _pertence_ a un **tipo de carrera**. (_1 a M_)
 1. Una **carrera** se _corre_ en un **país**. (_1 a M_)
-1. 
