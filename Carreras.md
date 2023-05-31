@@ -53,7 +53,7 @@
    
 ### tipos_carreras
 
-1. Crear el regisstro de un tipo de carrera.
+1. Crear el registro de un tipo de carrera.
 1. Leer el registro de un(os) tipo(s) de carrera(s) dada una condición en particular.
 1. Leer todos los registros de la entidad tipos carreras.
 1. Actualizar los datos de un tipo de carrera dada una condición en particular.
